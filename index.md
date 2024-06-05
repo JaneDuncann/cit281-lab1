@@ -14,4 +14,4 @@ During this lab, I learned...
 - How to run and debug Javascript using Node.js
 - Helpful keyboard shortcuts to use when moving around your code
 
-<img src="lab-01-folders.JPG" alt="making folders inside the terminal" width="300">
+<img src="lab-01-folders.png" alt="making folders inside the terminal" width="300">
