@@ -1,5 +1,6 @@
 # Lab 1 
 
+
 ## Purpose of the lab
 The purpose of this lab was to get used to creating files/ folders and editing these files from the command line. Lab 1 also focused on understanding keyboard shortcuts. 
 
@@ -11,4 +12,6 @@ The purpose of this lab was to get used to creating files/ folders and editing t
 During this lab, I learned...
 - Lots of Windows commands to use in the command line
 - How to run and debug Javascript using Node.js
-- Helpful keyboard shortcuts to use when moving around your code 
+- Helpful keyboard shortcuts to use when moving around your code
+
+<img src="lab-01-folders.JPG" alt="making folders inside the terminal" width="300">
